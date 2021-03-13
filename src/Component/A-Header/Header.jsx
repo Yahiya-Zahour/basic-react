@@ -40,6 +40,7 @@ const Header = () => {
 </Navbar>
 
 <button>logic</button>
+<button>logic</button>
 
     </div>
   );
