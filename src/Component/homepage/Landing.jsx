@@ -4,8 +4,9 @@ const Landing = () => {
     return (
         <div>
             <Header/>
+            
         </div>
     );
 };
-export default Landing;
 
+export default Landing;

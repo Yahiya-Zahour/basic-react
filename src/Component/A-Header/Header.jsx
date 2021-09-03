@@ -1,33 +1,20 @@
-import React from 'react';
-import {Navbar,Form,FormControl,Nav,Button,NavDropdown} from 'react-bootstrap';
+import React from "react";
 import "./Header.css";
-
 const Header = () => {
-    return (
-        <Navbar bg="light" expand="lg">
-        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#link">Link</Nav.Link>
-            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
-            </NavDropdown>
-          </Nav>
-          <Form inline>
-            <FormControl type="text" placeholder="Search" className="mr-sm-2" />
+  return (
+    <div>
+        <h4>NAGUR INFRA PVT.LTD.</h4>
+      <nav>
           
-          </Form>
-   
-            <Button id="1">Search</Button>
-        </Navbar.Collapse>
-      </Navbar>
-    );
+          <a href="">Home</a>
+          <a href="">Service</a>
+          <a href="">About us</a>
+          <a href="">Contact us</a>
+
+      </nav>
+
+    </div>
+  );
 };
 
 export default Header;
