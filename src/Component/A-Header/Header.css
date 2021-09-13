@@ -1,34 +1,12 @@
- div{
-  /* margin: 0%;
-  padding: 0%; */
-  background: rgb(228, 183, 193);
-
-  
+span{
+    color: blue;
+    font-family: bold;
 }
 
-nav{
-    display: inline-block;
-    border-radius: 20px 0 20px 0;
-    padding: 10px;
-    position: sticky;
-    /* background: rgb(228, 183, 193); */
+.Navmain{
+    background-color: lightblue;
+    padding: 11px;
+    box-shadow: 2px 2px 2px rgb(163, 155, 155) ;
     
-}
-nav a{
-    padding: 10px;
-    color: rebeccapurple;
-    text-decoration: none;
-    margin-right: 10px;
-    background: rgb(187, 149, 149);
-  
-    
-   
-
-}
-nav a:hover{
-    background: rgb(0, 0, 0);
-    color:rgb(255, 255, 255);
-    border-radius: 15px 0 15px 0;
-
     
 }

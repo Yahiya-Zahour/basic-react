@@ -1,0 +1,18 @@
+.to{
+  
+  color: blue;
+text-align: center;
+}
+img{width: 10px;
+height: 400px;}
+h3{
+  color: black;
+}
+.pra{
+  text-align: center;
+  text-transform: capitalize;
+font-family: inherit;
+}
+.card{
+margin-left: 200px;
+}
