@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div>
      
-      <Navbar className="Navmain" >
+      <Navbar className="Nav" >
   <Navbar.Brand href="#"> <span>NAGUR INFRA </span></Navbar.Brand>
   <Navbar.Toggle aria-controls="navbarScroll" />
   <Navbar.Collapse id="navbarScroll">
