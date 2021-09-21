@@ -40,6 +40,7 @@ const Header = () => {
 </Navbar>
 <button>login</button>
 <button>logg</button>
+<button>login</button>
 
     </div>
   );
