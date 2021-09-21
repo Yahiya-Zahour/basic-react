@@ -39,6 +39,7 @@ const Header = () => {
   </Navbar.Collapse>
 </Navbar>
 <button>login</button>
+<button>logg</button>
 
     </div>
   );
