@@ -5,9 +5,10 @@ span{
 
 .Navmain{
     background-color: lightblue;
-    padding: 11px;
+    padding: 20px;
     box-shadow: 2px 2px 2px rgb(163, 155, 155) ;
     position: sticky;
+    
     
     
 }
