@@ -40,7 +40,9 @@ const Header = () => {
 </Navbar>
 <button>ok</button>
 <button>ok</button>
-
+<input type="text" />
+<button>login</button>
+<input type="datetime" name="" id="" />
     </div>
   );
 };
