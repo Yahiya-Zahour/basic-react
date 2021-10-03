@@ -40,7 +40,8 @@ const Header = () => {
 </Navbar>
 
 
-
+<button>ok</button>
+<input type="text" />
 
 
     </div>
