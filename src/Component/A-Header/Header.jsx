@@ -41,10 +41,7 @@ const Header = () => {
 
 
 
-<button>ok</button>
-<input type="text" /><button>ok</button>
-<input type="text" />
-
+x
 
     </div>
   );
