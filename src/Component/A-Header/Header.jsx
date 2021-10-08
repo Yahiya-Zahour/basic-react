@@ -1,11 +1,11 @@
 import React from "react";
 import "./Header.css";
-import { Navbar,NavDropdown,Nav,Form,FormControl,Button } from "react-bootstrap";
+import { Navbar,NavDropdown,Nav,Form,FormControl,NavLink } from "react-bootstrap";
 const Header = () => {
   return (
     <div>
      
-      <Navbar className="Nav" >
+      <Navbar  >
   <Navbar.Brand href="#"> <span>NAGUR INFRA </span></Navbar.Brand>
   <Navbar.Toggle aria-controls="navbarScroll" />
   <Navbar.Collapse id="navbarScroll">
@@ -14,11 +14,11 @@ const Header = () => {
       style={{ maxHeight: '100px' }}
       navbarScroll
     >
-      <Nav.Link href="#action1">Home</Nav.Link>
-      <Nav.Link href="#action2">Services</Nav.Link>
+      <NavLink to="/Home">Home</NavLink>
+      <NavLink to="/Service">Services</NavLink>
       
       <NavDropdown title="Contact us" id="navbarScrollingDropdown">
-        <NavDropdown.Item href="#action3">Contact</NavDropdown.Item>
+        <NavDropdown.Item href="">Contact</NavDropdown.Item>
         <NavDropdown.Item href="#action4">About us</NavDropdown.Item>
         <NavDropdown.Divider />
         <NavDropdown.Item href="#action5">Our work done</NavDropdown.Item>
@@ -39,7 +39,7 @@ const Header = () => {
   </Navbar.Collapse>
 </Navbar>
 
-
+<button>login</button>
     </div>
   );
 };
