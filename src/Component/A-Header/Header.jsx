@@ -17,11 +17,9 @@ const Header = () => {
   </Navbar>
 
 
-  <button>Done</button>
-<button>Done</button>
-  <button>Done</button>
 
 
+  <button>Done</button>
 
 
     </div>
