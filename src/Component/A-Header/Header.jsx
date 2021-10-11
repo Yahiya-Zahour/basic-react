@@ -16,14 +16,12 @@ const Header = () => {
     </Container>
   </Navbar>
 
+<button>Done</button>
 
+  <button>Done</button>
 
   <button>Done</button>
 
-  <button>Done</button>
-<script>
-  
-</script>
 
     </div>
   );
