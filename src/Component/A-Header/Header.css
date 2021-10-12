@@ -1,1 +1,3 @@
-Navbar{position: sticky;}
+.Nav{
+    background: linear-gradient(45deg,rgb(0, 0, 112),black);
+}

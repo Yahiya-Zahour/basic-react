@@ -5,18 +5,19 @@ import { Navbar,Nav,Container } from "react-bootstrap";
 const Header = () => {
   return (
     <div>
-      <Navbar bg="dark" variant="dark">
+      <Navbar className="Nav">
     <Container>
-    <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+    <Navbar.Brand href="">NAGUR INFRA</Navbar.Brand>
     <Nav className="me-auto">
       <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#features">Features</Nav.Link>
-      <Nav.Link href="#pricing">Pricing</Nav.Link>
+      <Nav.Link href="#features">About us</Nav.Link>
+      <Nav.Link href="#pricing">Services</Nav.Link>
+      <Nav.Link href="#pricing">Contact us</Nav.Link>
     </Nav>
     </Container>
   </Navbar>
 
-
+<button>login</button>
 
 
 
