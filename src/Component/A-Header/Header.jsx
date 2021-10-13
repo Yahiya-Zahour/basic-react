@@ -1,22 +1,16 @@
 import React from "react";
 import "./Header.css";
-import { Navbar,Nav,Container } from "react-bootstrap";
+
 
 const Header = () => {
   return (
     <div>
-      <Navbar className="Nav">
-    <Container>
-    <Navbar.Brand href="">NAGUR INFRA</Navbar.Brand>
-    <Nav className="me-auto">
-      <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#features">About us</Nav.Link>
-      <Nav.Link href="#pricing">Services</Nav.Link>
-      <Nav.Link href="#pricing">Contact us</Nav.Link>
-    </Nav>
-    </Container>
-  </Navbar>
-
+      <nav>
+     <a href="/">Home</a>
+     <a href="/">About us</a>
+     <a href="/">Service</a>
+     <a href="/">Contact</a>
+      </nav>
 
 
 
@@ -25,3 +19,4 @@ const Header = () => {
 };
 
 export default Header;
+ 

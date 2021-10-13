@@ -1,3 +1,18 @@
-.Nav{
-    background: linear-gradient(45deg,rgb(0, 0, 112),black);
-}
+nav {
+    padding: 20px;
+    background: linear-gradient(45deg, rgb(0, 0, 0), blue);
+    position:sticky;
+    top: 20px;
+  }
+  a {
+    text-decoration: none;
+    padding: 10px;
+  
+    color: rgb(255, 255, 255);
+  }
+  nav:hover {
+    background-color: rgb(26, 0, 26);
+
+  
+  }
+  

@@ -9,7 +9,7 @@ const Landing = () => {
     return (
         <div>
             <Header/>
-            <MainBody/>
+            {/* <MainBody/> */}
             {/* <Service/> */}
             
         </div>
