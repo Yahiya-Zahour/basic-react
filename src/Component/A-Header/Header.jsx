@@ -13,6 +13,8 @@ const Header = () => {
       </nav>
 
       <button>login</button>
+<button>login</button>
+<button>login</button> 
       <button>login</button>
 
     </div>
