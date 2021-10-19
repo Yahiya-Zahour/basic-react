@@ -11,7 +11,7 @@ const Header = () => {
      <a href="/">Service</a>
      <a href="/">Contact</a>
       </nav>
-<button>ok</button>
+
 <button>ok</button>
 
 
