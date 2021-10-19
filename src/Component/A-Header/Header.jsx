@@ -12,15 +12,6 @@ const Header = () => {
      <a href="/">Contact</a>
       </nav>
 
-<button>login</button>
-<button>login</button>
-<button>login</button>
-<button>login</button>
-<button>login</button>
-<button>login</button>
-
-
-
 
     </div>
   );
