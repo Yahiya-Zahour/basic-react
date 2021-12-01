@@ -1,16 +1,15 @@
 import React from 'react';
 import MainBody from '../A-Body/MainBody';
+import Footer from '../A-Footer/Footer';
 import Header from '../A-Header/Header';
-// import Service from '../A-Service/Service'
-
 
 
 const Landing = () => {
     return (
         <div>
             <Header/>
-            {/* <MainBody/> */}
-            {/* <Service/> */}
+            <MainBody/>
+            <Footer/>
             
         </div>
     );
