@@ -9,7 +9,7 @@ const Landing = () => {
         <div>
             <Header/>
             <MainBody/>
-            <Footer/>
+            <Footer name="zahour"/>
             
         </div>
     );

@@ -7,7 +7,7 @@ const Footer = () => {
       <h1 className="fheading">Who We Are</h1>
       <br/>
 
-      <h5>Our Company</h5>
+      <h5 >Our Company </h5>
       <br />
       <h5>Our Corporate Offices</h5>
       <br />

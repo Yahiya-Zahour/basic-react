@@ -1,6 +1,6 @@
 nav {
     padding: 20px;
-    background: linear-gradient(45deg, rgb(0, 0, 0), blue);
+    background: linear-gradient(45deg, rgb(88, 87, 87), rgb(125, 125, 253));
     position:sticky;
     top: 20px;
   }
@@ -12,7 +12,10 @@ nav {
   }
   nav:hover {
     background-color: rgb(26, 0, 26);
-
   
   }
-  
+
+  .logo{
+    float: right;
+    
+  }

@@ -12,28 +12,28 @@ const MainBody = () => {
           <Carousel.Item>
             <img className="img1" src="Assets/antho.jpg" alt="First slide" />
             <Carousel.Caption>
-              <h3 className="opening">OPENING CEREMONY</h3>
+              <h3 className="opening">THINK OF INFRASTRUCTURE THINK NAGUR INFRA</h3>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img className="img1" src="Assets/axel.jpg" alt="Second slide" />
 
             <Carousel.Caption>
-              <h3>OPENING CEREMONY</h3>
+              <h3>THINK OF INFRASTRUCTURE THINK NAGUR INFRA</h3>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img className="img1" src="Assets/lenst.jpg" alt="Third slide" />
 
             <Carousel.Caption>
-              <h3>OPENING CEREMONY</h3>
+              <h3>THINK OF INFRASTRUCTURE THINK NAGUR INFRA</h3>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img className="img1" src="Assets/joseph.jpg" alt="Third slide" />
 
             <Carousel.Caption>
-              <h3>OPENING CEREMONY</h3>
+              <h3>THINK OF INFRASTRUCTURE THINK NAGUR INFRA</h3>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
