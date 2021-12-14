@@ -12,7 +12,7 @@ const MainBody = () => {
             <img className="img1" src="Assets/antho.jpg" alt="First slide" />
             <Carousel.Caption>
               <h3 className="opening">
-                THINK OF INFRASTRUCTURE THINK NAGUR INFRA
+                THINK OF INFRASTRUCTURE THINK OF NAGUR INFRA
               </h3>
             </Carousel.Caption>
           </Carousel.Item>

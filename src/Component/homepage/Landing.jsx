@@ -12,7 +12,9 @@ const Landing = () => {
             <Footer />
             <Router>
                 <Switch>
-                    
+                    <Route>
+                        
+                    </Route>
                 </Switch>
                 </Router>
         </div>

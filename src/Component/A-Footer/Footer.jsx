@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div>
       <div>
-        <h1>About NAGUR INFRA</h1>
+  
         
         </div>
  
