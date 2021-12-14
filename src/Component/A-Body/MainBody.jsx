@@ -1,9 +1,8 @@
 import React from "react";
-import "./MainBody.css";
 import { Carousel } from "react-bootstrap";
-import { Card, Button } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-
+import "./MainBody.css";
 const MainBody = () => {
   return (
     <div>
@@ -12,7 +11,9 @@ const MainBody = () => {
           <Carousel.Item>
             <img className="img1" src="Assets/antho.jpg" alt="First slide" />
             <Carousel.Caption>
-              <h3 className="opening">THINK OF INFRASTRUCTURE THINK NAGUR INFRA</h3>
+              <h3 className="opening">
+                THINK OF INFRASTRUCTURE THINK NAGUR INFRA
+              </h3>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -41,8 +42,8 @@ const MainBody = () => {
       <br />
       <br />
 
-      <p className="pra">
-        {" "}
+      <p className="PRA">
+        
         N&I Infrastructure Development Projects (NAGUR INFRA PVT.LTD.) model of
         development in India, which involves the development of infrastructure
         projects by Central and State Governments.

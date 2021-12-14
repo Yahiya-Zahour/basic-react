@@ -14,7 +14,7 @@ const Header = () => {
      <h3 className="logo">NAGUR INFRA PVT.LTD.</h3>
       </nav>
 
-<button>login</button>
+
 
 
     </div>
