@@ -20,21 +20,21 @@ const MainBody = () => {
             <img className="img1" src="Assets/axel.jpg" alt="Second slide" />
 
             <Carousel.Caption>
-              <h3>THINK OF INFRASTRUCTURE THINK NAGUR INFRA</h3>
+              <h3>THINK OF INFRASTRUCTURE THINK OF NAGUR INFRA</h3>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img className="img1" src="Assets/lenst.jpg" alt="Third slide" />
 
             <Carousel.Caption>
-              <h3>THINK OF INFRASTRUCTURE THINK NAGUR INFRA</h3>
+              <h3>THINK OF INFRASTRUCTURE  OF NAGUR INFRA</h3>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img className="img1" src="Assets/joseph.jpg" alt="Third slide" />
 
             <Carousel.Caption>
-              <h3>THINK OF INFRASTRUCTURE THINK NAGUR INFRA</h3>
+              <h3>THINK OF INFRASTRUCTURE THINK OF NAGUR INFRA</h3>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
@@ -57,7 +57,7 @@ const MainBody = () => {
           <Card.Text>
             <h4> Developing Landmark Infrastructure</h4>
           </Card.Text>
-          {/* <Button variant="primary">Go somewhere</Button> */}
+          
         </Card.Body>
       </Card>
     </div>
