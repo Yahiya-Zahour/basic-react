@@ -57,7 +57,7 @@ const MainBody = () => {
           <Card.Text>
             <h4> Developing Landmark Infrastructure</h4>
           </Card.Text>
-          
+          {/* <Button variant="primary">Go somewhere</Button> */}
         </Card.Body>
       </Card>
     </div>
