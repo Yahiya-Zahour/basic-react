@@ -1,20 +1,23 @@
-.to{
-  
+.to {
   color: blue;
-text-align: center;
+  text-align: center;
 }
-img{width: 10px;
-height: 400px;}
-h3{
+img {
+  width: 10px;
+  height: 400px;
+}
+h3 {
   color: black;
 }
-.PRA{
+.PRA {
   text-align: center;
   text-transform: capitalize;
-font-family: inherit;
+  font-family: inherit;
 }
-.card{
-margin-left: 200px;
+.card {
+  margin-left: 200px;
 }
-.img1{height: 550px;
-width: 1400px;}
+.img1 {
+  height: 550px;
+  width: 1400px;
+}
